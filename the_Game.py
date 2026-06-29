@@ -1,5 +1,7 @@
 # ================================
 # TIC TAC TOE — Python Beginner Game
+# Tic Tac Toe Game - Version 1.0 - Made by Dinesh
+# Tic Tac Toe Game - Version 1.0 - Made by Dinesh
 # ================================
 
 # The board — a list of 9 boxes
