@@ -1,0 +1,2 @@
+## CI/CD
+This project uses Jenkins for automated builds.
