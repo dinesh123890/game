@@ -1,0 +1,10 @@
+version: '3'
+services:
+  game:
+    image: tictactoe:4
+    volumes:
+      - gamedata:/data
+    stdin_open: true
+    tty: true
+volumes:
+  gamedata:
