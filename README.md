@@ -7,4 +7,5 @@ A simple XO game built in Python.
 \## How to run
 
 python the\_Game.py
+## Practice run - today's date
 
