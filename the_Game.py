@@ -1,11 +1,7 @@
 # Final version - made by Dinesh
 # Version 3.0
->>>>>>> confict-test2
-# ================================
 # TIC TAC TOE — Python Beginner Game
 # Tic Tac Toe Game - Version 1.0 - Made by Dinesh
-# Tic Tac Toe Game - Version 1.0 - Made by Dinesh
-# ================================
 
 # The board — a list of 9 boxes
 # Index:  0 | 1 | 2
